@@ -6,6 +6,8 @@ BASED in Belgium 🇧🇪
 
 Basically my hobbies include anything creative, but RC models have a special place in my heart
 
+UwU
+
 <!--
 **trifoil/trifoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
