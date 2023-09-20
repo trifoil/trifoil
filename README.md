@@ -6,6 +6,8 @@ BASED in Belgium 🇧🇪
 
 Basically my hobbies include anything creative, but RC models have a special place in my heart
 
+Linux life 
+
 UwU
 
 <!--
