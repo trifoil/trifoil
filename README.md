@@ -10,6 +10,9 @@ Linux life (fedora)
 
 UwU
 
+https://youtu.be/-OaUsqQWC9Y?t=16
+
+
                       .=++=:                      
                      +@@@@@@#                     
                     #@@%--#@@%.                   
