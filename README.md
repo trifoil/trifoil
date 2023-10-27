@@ -8,6 +8,8 @@ Basically my hobbies include anything creative, but RC models have a special pla
 
 Linux life (fedora)
 
+New but enthusiastic to TrueNAS
+
 UwU
 
 https://youtu.be/-OaUsqQWC9Y?t=16
