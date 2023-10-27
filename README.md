@@ -14,21 +14,7 @@ UwU
 
 https://youtu.be/-OaUsqQWC9Y?t=16
 
-
-                      .=++=:                      
-                     +@@@@@@#                     
-                    #@@%--#@@%.                   
-                  .%@@+    =@@@:                  
-                 :@@@-      :@@@=                 
-                -@@@:        .%@@+                
-               +@@%.           #@@#               
-              *@@#              *@@%.             
-             #@@*                =@@@:            
-           .%@@=                  :@@@-           
-          :@@@-                    .%@@=          
-          @@@=                      :@@@.         
-          %@@#=-::::::::::::::::::--*@@@.         
-          .*@@@@@@@@@@@@@@@@@@@@@@@@@@#:    
+![Alt text](truenas_scale-logo-full-color-rgb.webp)
 
 <!--
 **trifoil/trifoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
