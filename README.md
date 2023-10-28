@@ -8,25 +8,10 @@ Basically my hobbies include anything creative, but RC models have a special pla
 
 Linux life (fedora)
 
-New but enthusiastic to TrueNAS
+New but very enthusiastic to TrueNAS
 
 UwU
 
-https://youtu.be/-OaUsqQWC9Y?t=16
+https://youtu.be/-OaUsqQWC9Y?t=16  
 
 ![Alt text](truenas_scale-logo-full-color-rgb.webp)
-
-<!--
-**trifoil/trifoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
