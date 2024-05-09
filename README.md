@@ -8,7 +8,7 @@ Basically my hobbies include anything creative, but RC models have a special pla
 
 Linux life (fedora)
 
-New but very enthusiastic to TrueNAS
+New but very enthusiastic to TrueNAS, PFSense and everything open source
 
 UwU
 
