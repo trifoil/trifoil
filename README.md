@@ -14,7 +14,7 @@ UwU
 
 [Link to TrueNAS](https://www.truenas.com/)
 ![Alt text](truenas_scale-logo-full-color-rgb.webp)
-[Link to pfSense](https://www.pfsense.org/)
+[Link to pfsense](https://www.pfsense.org/)
 ![Alt text](PfSense_logo.png)
 
 
