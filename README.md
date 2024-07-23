@@ -12,7 +12,7 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
 
 
 <p align="center">
-  <img src="logo.svg" />
+  <img src="logo.svg" style="height:2rem;">
 </p>
 
 UwU
@@ -25,8 +25,4 @@ UwU
 
 [Meme](https://youtu.be/-OaUsqQWC9Y?t=16)
 
-<style>
-img{
-    height: 1rem ;
-}
-</style>
+
