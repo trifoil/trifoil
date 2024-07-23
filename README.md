@@ -1,5 +1,5 @@
-<div align="center> ### Hi there 👋
-</div>
+<h1 align="center"> Hi there 👋 </h1>
+
 IT student and former engineering student
 
 BASED in Belgium 🇧🇪
