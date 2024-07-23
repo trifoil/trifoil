@@ -10,22 +10,22 @@ Linux life (fedora)
 
 New but very enthusiastic to TrueNAS, PFSense and everything open source
 
-<div style="display: flex; gap: 2rem;">
+
 <p align="center">
-  <a href="https://nginxproxymanager.com/" target="_blank" style="text-decoration: none;">
+  <a href="https://nginxproxymanager.com/">
     <img src="npm.svg" style="height:4rem;">
   </a>
-  <a href="https://www.truenas.com/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.truenas.com/">
     <img src="truenas.svg" style="height:4rem;">
   </a>
-  <a href="https://www.pfsense.org/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.pfsense.org/">
     <img src="pfsense.svg" style="height:4rem;">
   </a>
-  <a href="https://fedoraproject.org/" target="_blank" style="text-decoration: none;">
+  <a href="https://fedoraproject.org/">
     <img src="fedora.svg" style="height:4rem;">
   </a>
 </p>
-</div>
+
 
 [Meme](https://youtu.be/-OaUsqQWC9Y?t=16)
 
