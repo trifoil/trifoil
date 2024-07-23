@@ -10,7 +10,7 @@ Linux life (fedora)
 
 New but very enthusiastic to TrueNAS, PFSense and everything open source
 
-<div style="flex">
+<div style="display: flex; gap: 2rem;">
 <p align="center">
   <a href="https://nginxproxymanager.com/" target="_blank" style="text-decoration: none;">
     <img src="npm.svg" style="height:4rem;">
