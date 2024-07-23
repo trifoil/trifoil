@@ -14,6 +14,8 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
 <p align="center">
   <img src="npm.svg" style="height:4rem;">
   <img src="truenas.svg" style="height:4rem;">
+  <img src="pfsense.svg" style="height:4rem;">
+  <img src="fedora.svg" style="height:4rem;">
 </p>
 
 UwU
