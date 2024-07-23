@@ -12,7 +12,8 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
 
 
 <p align="center">
-  <img src="logo.svg" style="height:2rem;">
+  <img src="npm.svg" style="height:4rem;">
+  <img src="truenas.svg" style="height:4rem;">
 </p>
 
 UwU
