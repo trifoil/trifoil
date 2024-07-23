@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<div align="center> ### Hi there 👋
+</div>
 IT student and former engineering student
 
 BASED in Belgium 🇧🇪
