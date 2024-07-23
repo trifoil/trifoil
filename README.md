@@ -25,3 +25,8 @@ UwU
 
 [Meme](https://youtu.be/-OaUsqQWC9Y?t=16)
 
+<style>
+img{
+    height: 1rem ;
+}
+</style>
