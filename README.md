@@ -12,16 +12,16 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
 
 
 <p align="center">
-  <a href="https://nginxproxymanager.com/">
+  <a href="https://nginxproxymanager.com/" target="_blank">
     <img src="npm.svg" style="height:4rem;">
   </a>
-  <a href="https://www.truenas.com/">
+  <a href="https://www.truenas.com/" target="_blank">
     <img src="truenas.svg" style="height:4rem;">
   </a>
-  <a href="https://www.pfsense.org/">    
+  <a href="https://www.pfsense.org/" target="_blank">    
     <img src="pfsense.svg" style="height:4rem;">
   </a>
-  <a href="https://fedoraproject.org/">  
+  <a href="https://fedoraproject.org/" target="_blank">  
     <img src="fedora.svg" style="height:4rem;">
   </a>
 </p>
