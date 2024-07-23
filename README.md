@@ -10,6 +10,11 @@ Linux life (fedora)
 
 New but very enthusiastic to TrueNAS, PFSense and everything open source
 
+
+<p align="center">
+  <img src="logo.svg" />
+</p>
+
 UwU
 
 [Link to TrueNAS](https://www.truenas.com/)
