@@ -42,11 +42,11 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
     <a href="https://surrealdb.com/">
     <img src="surrealdb.png" style="height:3rem;">
   </a>
-    <a href="https://surrealdb.com/">
-    <img src="surrealdb.png" style="height:3rem;">
+    <a href="https://tauri.app/">
+    <img src="tauri.svg" style="height:3rem;">
   </a>
-    <a href="https://surrealdb.com/">
-    <img src="surrealdb.png" style="height:3rem;">
+    <a href="https://yew.rs/">
+    <img src="yew.svg" style="height:3rem;">
   </a>
   
 </p>
