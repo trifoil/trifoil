@@ -30,16 +30,24 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
   <a href="https://fedoraproject.org/">
     <img src="fedora.svg" style="height:3rem;">
   </a>
-  <a href="https://surrealdb.com/">
-    <img src="surrealdb.png" style="height:3rem;">
-  </a>
   <a href="https://www.proxmox.com">
     <img src="proxmox.svg" style="height:3rem;">
   </a>
     <a href="https://nextcloud.com/">
     <img src="nextcloud.svg" style="height:3rem;">
   </a>
-
+  <a href="https://rocket.rs/">
+    <img src="rocket.png" style="height:3rem;">
+  </a>
+    <a href="https://surrealdb.com/">
+    <img src="surrealdb.png" style="height:3rem;">
+  </a>
+    <a href="https://surrealdb.com/">
+    <img src="surrealdb.png" style="height:3rem;">
+  </a>
+    <a href="https://surrealdb.com/">
+    <img src="surrealdb.png" style="height:3rem;">
+  </a>
   
 </p>
 
