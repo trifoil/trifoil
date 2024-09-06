@@ -10,10 +10,10 @@ Linux life (fedora)
 
 New but very enthusiastic to TrueNAS, PFSense and everything open source
 
-<h2 align="center"> The things I can do </h2>
+<h2 align="center"> The languages I use </h2>
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=html,css,md,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,md,bash,rust,ts" />
   </a>
 </p>
 <h2 align="center"> The things I am still learning </h2>
