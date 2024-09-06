@@ -17,8 +17,8 @@ Everything open source is :)
 
 <h2 align="center"> The languages I use </h2>
 <p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=html,css,php,md,bash,rust,ts,vite, tauri" />
+  <a href="[https://youtu.be/dQw4w9WgXcQ](https://youtu.be/-OaUsqQWC9Y?t=16)">
+    <img src="https://skillicons.dev/icons?i=html,css,php,md,bash,rust,ts,vite,tauri" />
   </a>
 </p>
 
@@ -61,7 +61,4 @@ Everything open source is :)
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trifoil&bg_color=0d1117&color=ffffff&line=ffffff&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </a>
-
-[Meme](https://youtu.be/-OaUsqQWC9Y?t=16)
-
 
