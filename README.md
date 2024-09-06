@@ -6,7 +6,7 @@ IT student and former engineering student
 I am based in Belgium 🇧🇪
 </p>
 <p align="center">
-Basically my hobbies include anything creative, but RC models have a special place in my heart
+My hobbies include anything creative, but RC models have a special place in my heart
 </p>
 <p align="center">
 Linux life (fedora)
