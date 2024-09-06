@@ -16,16 +16,16 @@ Everything open source is :)
 </p>
 
 <h2 align="center"> The languages I use </h2>
-<! –– <p align="center">
+<p align="center">
   <a href="[https://youtu.be/dQw4w9WgXcQ](https://youtu.be/-OaUsqQWC9Y?t=16)">
     <img src="https://skillicons.dev/icons?i=html,css,php,md,bash,rust,ts,vite,tauri" />
   </a>
-</p> -- !>
+</p> 
 
 <h2 align="center">Favorite technologies</h2>
-<p align="center">
+<!––<p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,tauri,docker,latex,fedora" />
-</p>
+</p>--!>
 <p align="center">
   <a href="https://nginxproxymanager.com/">
     <img src="npm.svg" style="height:3rem;">
