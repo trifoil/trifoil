@@ -25,7 +25,7 @@ Everything open source is :)
 <h2 align="center">Favorite technologies</h2>
 <!––<p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,tauri,docker,latex,fedora" />
-</p>--!>
+</p>-->
 <p align="center">
   <a href="https://nginxproxymanager.com/">
     <img src="npm.svg" style="height:3rem;">
