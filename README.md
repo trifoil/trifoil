@@ -59,8 +59,7 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
 
 <a href='https://github.com/trifoil/github-stats-transparent'>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trifoil&bg_color=0d1117&color=e5a50a&line=ffc12c&point=ffc12c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trifoil&bg_color=0d1117&color=ffffff&line=ffffff&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </a>
 
 [Meme](https://youtu.be/-OaUsqQWC9Y?t=16)
