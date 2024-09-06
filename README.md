@@ -59,8 +59,7 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
 
 <a href='https://github.com/trifoil/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/trifoil/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/trifoil/github-stats-transparent/output/generated/languages.svg)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trifoil&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </a>
 
