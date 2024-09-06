@@ -55,11 +55,11 @@ New but very enthusiastic to TrueNAS, PFSense and everything open source
   
 </p>
 
-<h2> Analytics </h2>
+<h2 align="center"> Analytics </h2>
 
 <a href='https://github.com/trifoil/github-stats-transparent'>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trifoil&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trifoil&bg_color=0d1117&color=e5a50a&line=ffc12c&point=ffc12c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </a>
 
