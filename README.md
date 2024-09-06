@@ -1,24 +1,28 @@
 <h1 align="center"> Hi there 👋 </h1>
-
+<p align="center">
 IT student and former engineering student
-
+</p>
+<p align="center">
 I am based in Belgium 🇧🇪
-
+</p>
+<p align="center">
 Basically my hobbies include anything creative, but RC models have a special place in my heart
-
+</p>
+<p align="center">
 Linux life (fedora)
-
+</p>
+<p align="center">
 New but very enthusiastic to TrueNAS, PFSense and everything open source
+</p>
 
 <h2 align="center"> The languages I use </h2>
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=html,css,md,bash,rust,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,md,bash,rust,ts,vite, tauri" />
   </a>
 </p>
-<h2 align="center"> The things I am still learning </h2>
 
-<h2 align="center">Very powerful softwares I use a lot</h2>
+<h2 align="center">Favorite technologies</h2>
 
 <p align="center">
   <a href="https://nginxproxymanager.com/">
