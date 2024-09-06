@@ -18,7 +18,7 @@ Everything open source is :)
 <h2 align="center"> The languages I use </h2>
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=html,css,md,bash,rust,ts,vite, tauri" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,md,bash,rust,ts,vite, tauri" />
   </a>
 </p>
 
