@@ -12,7 +12,7 @@ My hobbies include anything creative, but RC models have a special place in my h
 Linux life (fedora)
 </p>
 <p align="center">
-New but very enthusiastic to TrueNAS, PFSense and everything open source
+Everything open source is :)
 </p>
 
 <h2 align="center"> The languages I use </h2>
