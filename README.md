@@ -22,22 +22,3 @@ Here are the languages and tools I work with:
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-shadow-tal-revivo.png" alt="Markdown" title="Markdown"/>  
 </p>  
 
----
-
-## 🚀 **Projects**  
-
-Here are some of my featured projects:  
-
-- **[Project Name 1](https://github.com/yourusername/repo1)** - Short description of the project.  
-- **[Project Name 2](https://github.com/yourusername/repo2)** - Short description of the project.  
-- **[Project Name 3](https://github.com/yourusername/repo3)** - Short description of the project.  
-
----
-
-## 🌟 **Cool Features to Add to Your README**  
-
-Here are some ideas to make your profile even cooler:  
-
-1. **GitHub Stats Card**:  
-   ```markdown
-   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
