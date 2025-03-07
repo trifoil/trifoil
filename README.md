@@ -1,16 +1,19 @@
-# Hi there 👋 
+# 🛆 Hi there 
 
 IT student and former engineering student
 
 I am based in Belgium 🇧🇪
 
-My hobbies include anything creative, but RC models have a special place in my heart
+Anything open source is cool :)
 
-Linux life (fedora)
+My hobbies include anything creative but mostly :   
 
-Everything open source is :)
+* RC models
+* Airsoft
+* Bodybuilding
+* Homelab
 
-## The languages I use
+## Languages :
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -24,7 +27,7 @@ Everything open source is :)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-## Favorite technologies
+## Favourite technologies :
 
 [![Fedora Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app/)
@@ -37,6 +40,6 @@ Everything open source is :)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
 [![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
 
-## ;P
+## Website :
 
-https://youtu.be/dQw4w9WgXcQ](https://youtu.be/-OaUsqQWC9Y?t=16
+https://trifoil.be
