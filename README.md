@@ -1,6 +1,6 @@
 # 🛆 Hi there 
 
-IT student and former engineering student
+CS student and former engineering student
 
 I am based in Belgium 🇧🇪
 
