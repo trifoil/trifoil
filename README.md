@@ -13,6 +13,14 @@ My hobbies include anything creative but mostly :
 * Bodybuilding
 * Homelab
 
+## Competences :
+
+* Electronics
+* Electricity
+* Computing
+* Mechanical design
+* Mechanical parts manufacturing
+
 ## Languages :
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -52,6 +60,18 @@ My hobbies include anything creative but mostly :
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-2C3E50?style=for-the-badge&logo=freecad&logoColor=white)](https://www.freecad.org/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 
+## Certified
+
+[![SOLIDWORKS Mechanical Design](https://img.shields.io/badge/SOLIDWORKS%20Mechanical%20Design-004D80?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/)
+
+
 ## Website :
 
 https://trifoil.be
+
+
+
+
+---
+
+No, I will not fix your printer
