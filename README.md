@@ -26,6 +26,8 @@ My hobbies include anything creative but mostly :
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
 
 ## Favourite technologies :
 
@@ -42,6 +44,10 @@ My hobbies include anything creative but mostly :
 [![Deluge](https://img.shields.io/badge/Deluge-00BFFF?style=for-the-badge&logo=deluge&logoColor=white)](https://deluge-torrent.org/)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
 [![FileBrowser](https://img.shields.io/badge/FileBrowser-4CAF50?style=for-the-badge&logo=filebrowser&logoColor=white)](https://filebrowser.org/)
+[![RustDesk](https://img.shields.io/badge/RustDesk-000000?style=for-the-badge&logo=rustdesk&logoColor=white)](https://rustdesk.com/)
+[![GStreamer](https://img.shields.io/badge/GStreamer-FF7800?style=for-the-badge&logo=gstreamer&logoColor=white)](https://gstreamer.freedesktop.org/)
+[![FreeCAD](https://img.shields.io/badge/FreeCAD-2C3E50?style=for-the-badge&logo=freecad&logoColor=white)](https://www.freecad.org/)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 
 ## Website :
 
