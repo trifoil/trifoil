@@ -14,6 +14,10 @@ Everything open source is :)
 
 <p align="left">  
 <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/react.svg" alt="React" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/markdown.svg" alt="Markdown" width="30" height="30"/>
+
+
 </p> 
 
 ## Favorite technologies
