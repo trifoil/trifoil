@@ -1,64 +1,43 @@
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center">
-IT student and former engineering student
-</p>
-<p align="center">
-I am based in Belgium 🇧🇪
-</p>
-<p align="center">
-My hobbies include anything creative, but RC models have a special place in my heart
-</p>
-<p align="center">
-Linux life (fedora)
-</p>
-<p align="center">
-Everything open source is :)
-</p>
+# 👋 Hi, I'm [Your Name]  
 
-<h2 align="center"> The languages I use </h2>
-<p align="center">
-  <a href="[https://youtu.be/dQw4w9WgXcQ](https://youtu.be/-OaUsqQWC9Y?t=16)">
-    <img src="https://skillicons.dev/icons?i=html,css,php,mysql,md,bash,rust,js,vite" />
-  </a>
-</p> 
+🇧🇪 **Belgium-based Computer Science Student**  
+💻 **Open Source Fanatic** | 🎮 **Airsoft Enthusiast** | 🚜 **Tank Enthusiast**  
 
-<h2 align="center">Favorite technologies</h2>
+---
 
-<p align="center">
-  <a href="https://nginxproxymanager.com/">
-    <img src="npm.svg" style="height:3rem;">
-  </a>
-  <a href="https://www.pfsense.org/">
-    <img src="pfsense.svg" style="height:3rem;">
-  </a>
-  <a href="https://fedoraproject.org/">
-    <img src="fedora.svg" style="height:3rem;">
-  </a>
-  <a href="https://www.proxmox.com">
-    <img src="proxmox.svg" style="height:3rem;">
-  </a>
-    <a href="https://nextcloud.com/">
-    <img src="nextcloud.svg" style="height:3rem;">
-  </a>
-  <a href="https://rocket.rs/">
-    <img src="rocket.png" style="height:3rem;">
-  </a>
-    <a href="https://surrealdb.com/">
-    <img src="surrealdb.png" style="height:3rem;">
-  </a>
-    <a href="https://tauri.app/">
-    <img src="tauri.svg" style="height:3rem;">
-  </a>
-    <a href="https://yew.rs/">
-    <img src="yew.svg" style="height:3rem;">
-  </a>
-  
-</p>
+## 🛠️ **Tech Stack**  
 
-<h2 align="center"> Analytics </h2>
+Here are the languages and tools I work with:  
 
-<a href='https://github.com/trifoil/github-stats-transparent'>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trifoil&bg_color=0d1117&color=ffffff&line=ffffff&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</a>
+<p align="left">  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png" alt="HTML" title="HTML"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-css3-is-a-style-sheet-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo.png" alt="CSS" title="CSS"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo.png" alt="JavaScript" title="JavaScript"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="Rust" title="Rust"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-python-a-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png" alt="Python" title="Python"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-c-the-most-widely-used-programming-language-for-developing-operating-systems-logo-shadow-tal-revivo.png" alt="C++" title="C++"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-bash-a-command-language-and-shell-for-interacting-with-an-operating-system-logo-shadow-tal-revivo.png" alt="Bash" title="Bash"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-php-is-a-popular-general-purpose-scripting-language-logo-shadow-tal-revivo.png" alt="PHP" title="PHP"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-sql-a-domain-specific-language-used-in-programming-and-designed-for-managing-data-logo-shadow-tal-revivo.png" alt="SQL" title="SQL"/>  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-shadow-tal-revivo.png" alt="Markdown" title="Markdown"/>  
+</p>  
 
+---
+
+## 🚀 **Projects**  
+
+Here are some of my featured projects:  
+
+- **[Project Name 1](https://github.com/yourusername/repo1)** - Short description of the project.  
+- **[Project Name 2](https://github.com/yourusername/repo2)** - Short description of the project.  
+- **[Project Name 3](https://github.com/yourusername/repo3)** - Short description of the project.  
+
+---
+
+## 🌟 **Cool Features to Add to Your README**  
+
+Here are some ideas to make your profile even cooler:  
+
+1. **GitHub Stats Card**:  
+   ```markdown
+   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
