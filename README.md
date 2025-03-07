@@ -1,13 +1,16 @@
-# 👋 Hi, I'm [Your Name]  
+# Hi there 👋 
 
-🇧🇪 **Belgium-based Computer Science Student**  
-💻 **Open Source Fanatic** | 🎮 **Airsoft Enthusiast** | 🚜 **Tank Enthusiast**  
+IT student and former engineering student
 
----
+I am based in Belgium 🇧🇪
 
-## 🛠️ **Tech Stack**  
+My hobbies include anything creative, but RC models have a special place in my heart
 
-Here are the languages and tools I work with:  
+Linux life (fedora)
+
+Everything open source is :)
+
+## The languages I use
 
 <p align="left">  
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png" alt="HTML" title="HTML"/>  
@@ -22,3 +25,8 @@ Here are the languages and tools I work with:
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-shadow-tal-revivo.png" alt="Markdown" title="Markdown"/>  
 </p>  
 
+## Favorite technologies
+
+## ;P
+
+https://youtu.be/dQw4w9WgXcQ](https://youtu.be/-OaUsqQWC9Y?t=16
