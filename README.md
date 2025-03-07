@@ -39,6 +39,9 @@ My hobbies include anything creative but mostly :
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
 [![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
+[![Deluge](https://img.shields.io/badge/Deluge-00BFFF?style=for-the-badge&logo=deluge&logoColor=white)](https://deluge-torrent.org/)
+[![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
+[![FileBrowser](https://img.shields.io/badge/FileBrowser-4CAF50?style=for-the-badge&logo=filebrowser&logoColor=white)](https://filebrowser.org/)
 
 ## Website :
 
