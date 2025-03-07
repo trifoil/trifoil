@@ -13,7 +13,7 @@ Everything open source is :)
 ## The languages I use
 
 <p align="left">  
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30" background-color="black" color="#ffd000"/>
 <img src="https://simpleicons.org/icons/react.svg" alt="React" width="30" height="30"/>
 <img src="https://simpleicons.org/icons/markdown.svg" alt="Markdown" width="30" height="30"/>
 
