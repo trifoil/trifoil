@@ -62,6 +62,8 @@ My hobbies include anything creative but mostly :
 [![FileBrowser](https://img.shields.io/badge/FileBrowser-4CAF50?style=for-the-badge&logo=filebrowser&logoColor=white)](https://filebrowser.org/)
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-2C3E50?style=for-the-badge&logo=freecad&logoColor=white)](https://www.freecad.org/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io//)
+
 
 ## Certified
 
