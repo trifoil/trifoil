@@ -65,9 +65,7 @@ My hobbies include anything creative but mostly :
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io//)
 [![V4L](https://img.shields.io/badge/V4L-009688?style=for-the-badge&logo=linux&logoColor=white)](https://linuxtv.org/wiki/index.php/Video4Linux)
-[![V4L2](https://img.shields.io/badge/V4L2-003366?style=for-the-badge&logo=camera&logoColor=white)](https://linuxtv.org/)
 [![Fyne](https://img.shields.io/badge/Fyne-4D4D4D?style=for-the-badge&logo=go&logoColor=00B4D8)](https://fyne.io/)
-[![Fyne](https://img.shields.io/badge/Fyne-00B4D8?style=for-the-badge&logo=go&logoColor=white)](https://fyne.io/)
 
 
 ## Certified
